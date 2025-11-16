@@ -67,6 +67,7 @@ Developed by: HEMAPRIYA P RegisterNumber: 25015164
 <img width="1003" height="641" alt="image" src="https://github.com/user-attachments/assets/64744f68-bc21-4385-a2e7-71335c1b11ae" />
 
 **Output Timing Waveform**
+
 **Full adder**
 <img width="1230" height="293" alt="image" src="https://github.com/user-attachments/assets/6d5fb8bf-1c1b-454f-b5b6-8a0e9ad08a38" />
 
